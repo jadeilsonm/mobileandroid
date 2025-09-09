@@ -11,13 +11,3 @@ fun imprimirResultado(resultado: ResultadoOperacao) {
         ResultadoOperacao.Pendente -> println("Aguardando a conclusão da operação...")
     }
 }
-
-fun main() {
-    val resultado1 = ResultadoOperacao.Sucesso(100)
-    val resultado2 = ResultadoOperacao.Falha("Erro de rede")
-    val resultado3 = ResultadoOperacao.Pendente
-    
-    imprimirResultado(resultado1)
-    imprimirResultado(resultado2)
-    imprimirResultado(resultado3)
-}
