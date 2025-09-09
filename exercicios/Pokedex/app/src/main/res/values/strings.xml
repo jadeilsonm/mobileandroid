@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="title">Pokedex</string>
+    <string name="description">description</string>
+    <string name="btn_left">Anterior</string>
+    <string name="btn_right">Proximo</string>
+</resources>
