@@ -4,4 +4,10 @@
     <string name="description">description</string>
     <string name="btn_left">Anterior</string>
     <string name="btn_right">Proximo</string>
+    <string name="txt_hp">HP</string>
+    <string name="txt_attack">ATTACK</string>
+    <string name="txt_defense">DEFENSE</string>
+    <string name="txt_special_attack">SPECIAL-ATTACK</string>
+    <string name="txt_special_defense">SEPECIAL-DEFENSE</string>
+    <string name="txt_stats">STATS</string>
 </resources>
